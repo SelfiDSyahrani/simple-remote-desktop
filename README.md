@@ -1,2 +1,2 @@
-# simple-remote-desktop
+# Simple Remote Desktop
 WebRTC Implementation 
