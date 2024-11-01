@@ -1,0 +1,22 @@
+
+.video-player{
+    background-color: black;
+    aspect-ratio: 16/9;
+    width: 100%;             /* Ensures video fills container width */
+    height: auto;            /* Maintains aspect ratio */
+    object-fit: cover;    
+}
+#initializeButton {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#initializeButton:hover {
+    background-color: #0056b3;
+}
